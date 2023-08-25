@@ -24,7 +24,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Python Programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
+I am a Python Programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine. Location: Warsaw, Poland.
 - :telescope: I'm working as a Python programmer, customizing and redesigning scripts for parsing data from web pages, creating and improving bots for telegram, also interested in full-stack development (contributing to frontend and backend for building web applications).
 - :seedling: Exploring Technical Content Writing.
 - :zap: In my free time, I study and impoving my skills in the fields that I'm interested in.
