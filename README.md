@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250">
   <div id="badges">
-    <a href="">
+    <a href="https://www.linkedin.com/in/valerii-andriushchenko-33a3881b8/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" />
     </a>
     <a href="https://t.me/shriksanka_prof">
@@ -28,7 +28,7 @@ I am a Python Programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - :telescope: I'm working as a Python programmer, customizing and redesigning scripts for parsing data from web pages, creating and improving bots for telegram, also interested in full-stack development (contributing to frontend and backend for building web applications).
 - :seedling: Exploring Technical Content Writing.
 - :zap: In my free time, I study and impoving my skills in the fields that I'm interested in.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-shriksanka-blue?style=flat&logo=Linkedin&logoColor=white)]() [![Telegram Badge](https://img.shields.io/badge/-shriksanka-black?style=flat&logo=Telegram&logoColor=white)](https://t.me/shriksanka_prof)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-shriksanka-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/valerii-andriushchenko-33a3881b8/) [![Telegram Badge](https://img.shields.io/badge/-shriksanka-black?style=flat&logo=Telegram&logoColor=white)](https://t.me/shriksanka_prof)
 
 ---
 
